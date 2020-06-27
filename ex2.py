@@ -1,1 +1,1 @@
-print("Good Morning")
+print("need a reason to life")
